@@ -60,7 +60,7 @@ void loop() {
 }
 
 ```
-![arduino LED]
+![arduino LED](https://github.com/sunny9645/potentio/blob/master/potentio.jpg)
 
 
 
